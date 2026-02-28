@@ -24,15 +24,8 @@ This repository emphasizes:
 <p align="center">
   <img src="https://img.shields.io/badge/Blind%2075-In%20Progress-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Interview%20150-In%20Progress-6f42c1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Daily%20Streak-Active-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge"/>
 </p>
-
----
-
-## 📂 Repository Structure
-
-![LC Repo Structure](src/images/lc-repo-structure.png)
 
 ---
 
@@ -54,18 +47,7 @@ Array & String • Two Pointers • Sliding Window • Binary Search • Linked 
 
 ---
 
-### 3️⃣ Daily Streak Discipline
-
-Maintaining long-term consistency:
-
-- Year-wise tracking  
-- Month-wise tracking  
-
-📁 `lc-daily-streak/`
-
----
-
-### 4️⃣ Pattern Templates (Reusable Logic Library)
+### 3️⃣ Pattern Templates (Reusable Logic Library)
 
 Complement HashMap • Running Minimum • Prefix-Suffix • Kadane’s Algorithm • Sliding Window • Monotonic Stack • Binary Search Template • Dynamic Programming Template  
 
@@ -79,7 +61,6 @@ Complement HashMap • Running Minimum • Prefix-Suffix • Kadane’s Algorith
 ✔ Optimal Time & Space Complexity  
 ✔ Edge Case Handling  
 ✔ Clean Code Structure  
-✔ Interview-Ready Formatting  
 
 ---
 

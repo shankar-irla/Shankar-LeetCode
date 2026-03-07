@@ -34,7 +34,7 @@ Space : O(1)
 -------------------------------------------------------
 */
 
-import java.util.*;
+//import java.util.*;
 
 public class Q10_LC11_ContainerWithMostWater {
 

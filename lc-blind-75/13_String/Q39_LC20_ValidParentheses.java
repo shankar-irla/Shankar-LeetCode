@@ -125,6 +125,3 @@ public class Q39_LC20_ValidParentheses {
     }
 }
 
-git add lc-blind-75/13_String/Q39_LC20_ValidParentheses.java
-git commit -m "39/75: LC20 Valid Parentheses (Stack + Map)"
-git push

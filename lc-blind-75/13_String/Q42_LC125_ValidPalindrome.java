@@ -14,7 +14,7 @@ Example:
 Input  : "A man, a plan, a canal: Panama"
 Output : true
 
--------------------------------------------------------
+-----------------------------------------------------
 
 Approach 1: Clean String + Reverse
 

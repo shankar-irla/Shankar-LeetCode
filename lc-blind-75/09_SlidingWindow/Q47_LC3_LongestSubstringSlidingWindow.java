@@ -1,3 +1,43 @@
+/*
+-------------------------------------------------------
+Problem ID   : LC3
+Title        : Longest Substring Without Repeating Characters
+Topic        : Sliding Window
+Pattern      : Variable Sliding Window + HashMap
+Difficulty   : Medium
+
+Problem Summary:
+Given a string s, find the length of the longest substring
+without repeating characters.
+
+Example:
+Input  : "abcabcbb"
+Output : 3
+
+-------------------------------------------------------
+
+Approach 1: Sliding Window + HashSet
+
+- Expand right pointer
+- If duplicate → shrink from left
+
+Time  : O(n)
+Space : O(n)
+
+-------------------------------------------------------
+
+Approach 2: Sliding Window + HashMap (Optimal)
+
+- Store last index of character
+- Jump left pointer directly
+
+Time  : O(n)
+Space : O(n)
+
+-------------------------------------------------------
+*/
+
+
 import java.util.*;
 
 

@@ -40,8 +40,6 @@ Space : O(n)
 
 import java.util.*;
 
-
-
 public class Q47_LC3_LongestSubstringSlidingWindow {
 
     public static int lengthOfLongestSubstringSet(String s){
